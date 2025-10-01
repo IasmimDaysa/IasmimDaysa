@@ -23,11 +23,15 @@
 </p>  
 
 ## 🌎 Onde me encontrar  
+## 🌎 Onde me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com](https://www.linkedin.com/in/iasmim-santos-0b459a222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:iasmin.daysa1@gmail.com"><img src="https://img.shields.io/badge/Email-✉️-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iasmim-santos-0b459a222/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:iasmin.daysa1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-✉️-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 💡 *"A tecnologia move o mundo e eu quero crescer junto com ela."*  
