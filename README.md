@@ -3,7 +3,7 @@
 ✨ Bem-vindo(a) ao meu perfil no GitHub! ✨  
 
 ## 🚀 Sobre mim  
-- 📊 Formada em **Contabilidade**  
+- 📊 Formada em **Ciências Contábeis**  
 - 💼 Experiência na área **Fiscal**  
 - 💻 Curso Técnico em **Desenvolvimento de Sistemas**  
 - 🎨 Curso de **Front-end** em andamento  
