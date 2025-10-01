@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>  
 
-## 🌎 Onde me encontrar  
 ## 🌎 Onde me encontrar
 <p align="left">
   <a href="https://www.linkedin.com/in/iasmim-santos-0b459a222/">
