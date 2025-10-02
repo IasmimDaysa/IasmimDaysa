@@ -2,7 +2,7 @@
 
 ✨ Bem-vindo(a) ao meu perfil no GitHub! ✨  
 ---
- 👷‍♀️🚧 Perfil em Construção 🚧👷‍♀️
+👷‍♀️🚧 Perfil em Construção 🚧👷‍♀️
 🔧 Ajustando códigos, aprendendo e crescendo na tecnologia! 🚀
 
 ## 🚀 Sobre mim  
