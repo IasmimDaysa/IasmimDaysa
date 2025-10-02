@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou a Iasmim Santos 
 
 ✨ Bem-vindo(a) ao meu perfil no GitHub! ✨  
-
-🌱💻 Explorando o mundo da programação e dando os primeiros passos na minha trajetória em tecnologia! 🚀
+---
+ 👷‍♀️🚧 Perfil em Construção 🚧👷‍♀️
+🔧 Ajustando códigos, aprendendo e crescendo na tecnologia! 🚀
 
 ## 🚀 Sobre mim  
 - 📊 Formada em **Ciências Contábeis**  
