@@ -10,8 +10,7 @@
 - 💻 Curso Técnico em **Desenvolvimento de Sistemas**  
 - 🎨 Curso de **Front-end** em andamento  
 - 📚 Sempre em busca de **conhecimento em tecnologia** e novas oportunidades na área de desenvolvimento  
-- 🔎 Interesses: **programação, front-end, automação e soluções digitais**  
-- 🌴 No tempo livre, gosto de praia, caminhadas, séries e estar com a família  
+- 🔎 Interesses: **programação, front-end, automação e soluções digitais**   
 
 ## 🛠️ Tecnologias & Ferramentas  
 <p align="left">
